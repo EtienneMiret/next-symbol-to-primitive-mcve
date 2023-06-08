@@ -1,3 +1,5 @@
+'use client';
+
 export const title = 'Home';
 
 export default function Home() {
